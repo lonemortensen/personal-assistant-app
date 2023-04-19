@@ -26,7 +26,7 @@ The skills practiced during this project include:
 - JSON module
 
 ## Launch
-[See the live version of the Personal Assistant app on Replit:] (https://replit.com/@lonemortensen/skillcrush-py-cl01-ls12-personal-assistant-final#main.py)
+[See the live version of the Personal Assistant app on Replit.](https://replit.com/@lonemortensen/skillcrush-py-cl01-ls12-personal-assistant-final)
 
 ## Acknowledgements
 
